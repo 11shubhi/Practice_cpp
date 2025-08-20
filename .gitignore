@@ -1,0 +1,40 @@
+# ---------------------------
+# C++ build / binary files
+# ---------------------------
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+
+# ---------------------------
+# Debug / cache files
+# ---------------------------
+*.log
+*.pdb
+*.tmp
+*.cache
+
+# ---------------------------
+# VS Code project files
+# ---------------------------
+.vscode/
+*.code-workspace
+
+# ---------------------------
+# Build directories
+# ---------------------------
+/build/
+/bin/
+/debug/
+/release/
+/dist/
+
+# ---------------------------
+# OS generated files
+# ---------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
